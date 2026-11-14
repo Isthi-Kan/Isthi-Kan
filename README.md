@@ -11,7 +11,7 @@
 ### 🚀 Professional Full-Stack Software Engineer & AI Systems Developer
 
 <p align="center">
-  🎓 <b>BSc (Hons) in Computer Science Undergraduate</b> at <i>Uva Wellassa University of Sri Lanka</i><br>
+  🎓 <b>BSc (Hons) Computer Science Undergraduate</b> at <i>Uva Wellassa University of Sri Lanka</i><br>
   💻 Specializing in <b>MERN & PERN Stack Engineering</b> and <b>React Native Mobile Development</b><br>
   🧠 Building intelligent <b>AI-Powered Applications</b>, Multimodal LLM Agents & Scalable Cloud Systems<br>
   🏛️ Dedicated to <b>Clean Architecture</b>, <b>SOLID Principles</b>, and <b>Enterprise System Design</b>
@@ -34,7 +34,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
 # ⚡ About Me & Engineering Philosophy
 
@@ -66,7 +66,7 @@ Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, 
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
 # 🛠️ Complete Technical Arsenal
 
@@ -134,7 +134,7 @@ Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
 # 🏛️ Software Engineering & Architecture Pillars
 
@@ -165,116 +165,135 @@ My technical foundation is built on professional principles that ensure long-ter
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
 # 🚀 Featured Projects
 
+### 🛒 Multi-Vendor E-Commerce Platform
+
+A scalable multi-tenant marketplace with vendor management, RBAC authentication, inventory management and an AI-ready architecture.
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `JWT`
+
+[🔗 Repository](https://github.com/Isthi-Kan/MyEcommerce_MultivendorApp)
+
+<br/>
+
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🛒 Multi-Vendor E-Commerce
-Multi-tenant vendor platform with role-based access and secure authentication.
-
-<img src="https://img.shields.io/badge/PERN-316192?style=flat-square" alt="PERN" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 AI Advertisement Generator
+
 AI-powered ad creation using multimodal LLMs.
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+`OpenAI` `Gemini` `React`
+
+[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎉 Eventra
+
 Event management platform.
 
-<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square" alt="MERN" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+`MERN` `Tailwind CSS`
+
+[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🐱 AI CatBotz
-Conversational AI assistant.
 
-<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square" alt="AI Agents" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+Conversational AI assistant built with AI agent workflows.
+
+`AI Agents` `React Native`
+
+[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏠 Hostel Maintenance
+
 Maintenance request and tracking system.
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+`Node.js` `PostgreSQL`
+
+[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💸 Splitify
+
 Expense splitting application.
 
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+`Expo` `TypeScript`
+
+[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More on GitHub
+
+Browse all my repositories and experiments.
+
+[🔗 View All Repositories](https://github.com/Isthi-Kan?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Isthi-Kan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-<br>
+### 🏆 Achievements
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Isthi-Kan&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Isthi-Kan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
-<br>
+### 📈 Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Isthi-Kan&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isthi-Kan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
-<br>
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isthi-Kan&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 # 🤝 Let's Collaborate & Build Something Amazing!
 
