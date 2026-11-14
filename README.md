@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Professional+Full-Stack+Software+Engineer;AI+Systems+Developer;MERN+%7C+PERN+%7C+React+Native;Building+Enterprise+Software+%26+AI+Applications" alt="Typing header" />
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/banner.svg" width="100%" alt="Mohamed Isthikan Banner" />
 
 <br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00D9FF,100:7F5AF0&height=200&section=header&text=Mohamed%20Isthikan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Professional%20Full-Stack%20Software%20Engineer%20%26%20AI%20Systems%20Developer&descAlignY=58&descSize=18" width="100%" alt="Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Professional+Full-Stack+Software+Engineer;AI+Systems+Developer;MERN+%7C+PERN+%7C+React+Native;Building+Enterprise+Software+%26+AI+Applications" alt="Typing header" />
 
 # Hi there, I'm Mohamed Isthikan 👋
 
@@ -18,6 +19,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-184-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions: 184" />
   <img src="https://komarev.com/ghpvc/?username=Isthi-Kan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Isthi-Kan?style=for-the-badge&logo=github&color=181717" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Isthi-Kan?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
@@ -34,7 +36,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
 # ⚡ About Me & Engineering Philosophy
 
@@ -66,7 +68,7 @@ Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, 
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
 # 🛠️ Complete Technical Arsenal
 
@@ -134,7 +136,7 @@ Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
 # 🏛️ Software Engineering & Architecture Pillars
 
@@ -165,7 +167,7 @@ My technical foundation is built on professional principles that ensure long-ter
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
 # 🚀 Featured Projects
 
@@ -252,14 +254,14 @@ Browse all my repositories and experiments.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
@@ -291,7 +293,7 @@ Browse all my repositories and experiments.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
 <div align="center">
 
@@ -321,6 +323,6 @@ Browse all my repositories and experiments.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00D9FF,100:0A66C2&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/footer.svg" width="100%" alt="Footer" />
 
 </div>
