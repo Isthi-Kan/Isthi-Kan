@@ -1,89 +1,191 @@
-# Hi 👋, I'm Mohamed Isthikan  
-### 🚀 Full Stack & AI Developer  
+<div align="center">
 
-🎓 Computer Science Undergraduate at Uva Wellassa University of Sri Lanka  
-💻 Full Stack Developer specializing in Web & Mobile Application Development  
-🤖 AI Developer focused on AI-powered applications and intelligent systems  
-🌱 Currently learning advanced AI development and AI model engineering  
-⚡ Passionate about building scalable, modern, and user-friendly applications  
+  # Hi there, I'm Mohamed Isthikan 👋
+  ### 🚀 Professional Full-Stack Software Engineer & AI Systems Developer
 
----
+  <p align="center">
+    🎓 <b>BSc (Hons) in Computer Science Undergraduate</b> at <i>Uva Wellassa University of Sri Lanka</i><br>
+    💻 Specializing in <b>MERN & PERN Stack Engineering</b> and <b>React Native Mobile Development</b><br>
+    🧠 Building intelligent <b>AI-Powered Applications</b>, Multimodal LLM Agents & Scalable Cloud Systems<br>
+    🏛️ Dedicated to <b>Clean Architecture</b>, <b>SOLID Principles</b>, and <b>Enterprise System Design</b>
+  </p>
 
-## 🌐 Connect With Me
-- LinkedIn: (www.linkedin.com/in/mohamed-isthikan-b157503a9)
-- Portfolio: (https://isthi-portfolio12.vercel.app/)
+  <br/>
 
----
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-isthikan-b157503a9)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://isthi-portfolio12.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isthi-Kan)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isthikan.dev@gmail.com)
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🤖 AI & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📚 Currently Exploring
-- Artificial Intelligence 🤖  
-- Machine Learning  
-- AI-powered Web Applications  
-- AI-powered Mobile Applications  
-- Advanced Full Stack Development  
-- Cloud & Scalable Systems  
+## ⚡ About Me & Engineering Philosophy
+
+I am a Full-Stack Software Engineer who looks beyond just frameworks — focusing on **software craftsmanship, architecture, and high-leverage engineering decisions**. My work spans building enterprise-scale multi-tier platforms, cross-platform mobile apps with native ergonomics, and cutting-edge AI integrations.
+
+- 🏗️ **Architectural Mindset**: I design decoupled, modular applications using **Clean Architecture**, **Service Layer & Repository Patterns**, and strict **Separation of Concerns**.
+- 🔐 **Security & Performance**: Experienced in implementing zero-trust **JWT & Refresh Token rotation**, **Role-Based Access Control (RBAC)**, connection pooling, and database query indexing.
+- 🤖 **AI-Driven Engineering**: Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, and conversational productivity systems into real-world software.
 
 ---
 
-## 🚀 Experience
+## 🛠️ Complete Technical Arsenal
 
-### Full Stack Developer (MERN Stack)
-**Freelance / Self-Employed**  
-📅 6 Months Experience  
+### 🌐 Core Languages & Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_(PostgreSQL)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-Worked as a Full Stack Developer specializing in MERN Stack development, building modern and responsive web applications.
+### 💻 Full-Stack Web Development (MERN & PERN)
+<p>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zustand_/_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="State Management" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="Forms" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</p>
 
-**Responsibilities:**
-- Developed full-stack web applications using MERN technologies  
-- Built responsive UI with React.js  
-- Created REST APIs using Node.js & Express.js  
-- Managed databases using MongoDB  
-- Implemented authentication & authorization systems  
-- Integrated third-party APIs  
-- Used Git & GitHub for version control  
-- Improved performance and user experience  
-- Collaborated on real-world projects  
+### 📱 Mobile App Engineering
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo_(SDK_54_--_58)-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Router" />
+  <img src="https://img.shields.io/badge/Reanimated-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Reanimated" />
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind" />
+  <img src="https://img.shields.io/badge/Secure_Store-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Secure Store" />
+</p>
+
+### ⚙️ Backend & API Engineering
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/JWT_&_Refresh_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Bcrypt_/_Argon2-4A154B?style=for-the-badge&logo=security&logoColor=white" alt="Hashing" />
+  <img src="https://img.shields.io/badge/Rate_Limiter_&_Helmet-20B2AA?style=for-the-badge&logo=shield&logoColor=white" alt="API Security" />
+</p>
+
+### 🗄️ Database Architecture & Caching
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neon_Serverless-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon Postgres" />
+  <img src="https://img.shields.io/badge/Prisma_ORM_7-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Redis_(Caching)-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### 🤖 AI Engineering, Media & Cloud Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/ImageKit.io-007FFF?style=for-the-badge&logo=imagekit&logoColor=white" alt="ImageKit" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
-## 🎯 Goals
-- ✔ Become a Professional AI Software Engineer  
-- ✔ Build Intelligent AI Systems  
-- ✔ Develop AI-powered Web & Mobile Apps  
-- ✔ Contribute to Open Source Projects  
-- ✔ Master Advanced Software Architecture  
+## 🏛️ Software Engineering & Architecture Pillars
+
+My technical foundation is built on professional principles that ensure long-term code maintainability, testability, and resilience:
+
+<table>
+<tr>
+<td width="50%">
+
+### 📐 Software Principles & Patterns
+- **Clean Code & SOLID**: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion (IoC).
+- **Architecture**: Modular Monolith, Layered Architecture, Feature-Sliced Design.
+- **Design Patterns**: 
+  - *Creational*: Factory, Singleton, Builder
+  - *Structural*: Adapter, Facade
+  - *Behavioral*: Strategy, Observer
+  - *Enterprise*: Service Layer Pattern, Repository Pattern, DTO Pattern.
+
+</td>
+<td width="50%">
+
+### 🗄️ Database & System Design
+- **Relational Integrity**: 3NF normalization, foreign key cascade constraints, multi-tenant vendor isolation.
+- **Performance**: High-selectivity indexing, connection pooling, and N+1 prevention.
+- **System Design Concepts**: High-Level Architecture, Low-Level UML (Class, Sequence, ER Diagrams), Horizontal Scaling, Rate-limiting, and Caching strategies.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Quote
-> “Technology combined with Artificial Intelligence can shape the future.”
+## 🚀 Featured Capstone Projects
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐱 AI CatBotz — Cross-Platform AI Assistant Ecosystem
+> *Next-generation full-stack AI platform enabling users to build custom AI agents, participate in multimodal conversations, and automate productivity.*
+
+- **Mobile Client**: Built with **React Native + Expo SDK**, Reanimated micro-interactions, Haptic feedback, and **Expo SecureStore**.
+- **Admin Dashboard**: Real-time analytics built with **React 19, Vite, and Tailwind CSS v4**.
+- **Server Infrastructure**: **Express.js 5 + Prisma ORM 7 + Neon Serverless PostgreSQL**, secure JWT RBAC, and cloud media handling.
+- **AI Engine**: Text & image multimodal chats, custom personality prompts, and agent supervision.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ Enterprise Multi-Vendor E-Commerce Platform
+> *Production-grade distributed marketplace connecting Customers, Independent Vendors, and Super-Administrators.*
+
+- **Multi-Vendor Sub-Order Splitting**: Architecture that routes single checkouts into isolated vendor sub-orders with custom commission calculations.
+- **3-Level Category Taxonomy**: Custom tree hierarchy supporting main categories with decoupled first and second-level subcategories.
+- **Tech Stack**: **React Native (Expo)** mobile app, **React 19 + Vite** admin dashboard, **Express.js 5 + TypeScript**, **Prisma ORM**, and **Neon PostgreSQL**.
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-⭐ *Feel free to connect and collaborate with me!*
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed Isthikan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isthi-Kan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+
+  ### 🤝 Let's Collaborate & Build Something Amazing!
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-isthikan-b157503a9)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://isthi-portfolio12.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-darkgreen?style=flat&logo=github)](https://github.com/Isthi-Kan)
+
+  <br />
+
+  <i>“Technology combined with Software Engineering and Artificial Intelligence can shape the future.”</i>
+
+</div>
