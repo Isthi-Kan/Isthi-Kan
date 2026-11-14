@@ -1,40 +1,77 @@
 <div align="center">
 
-  # Hi there, I'm Mohamed Isthikan 👋
-  ### 🚀 Professional Full-Stack Software Engineer & AI Systems Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Professional+Full-Stack+Software+Engineer;AI+Systems+Developer;MERN+%7C+PERN+%7C+React+Native;Building+Enterprise+Software+%26+AI+Applications" alt="Typing header" />
 
-  <p align="center">
-    🎓 <b>BSc (Hons) in Computer Science Undergraduate</b> at <i>Uva Wellassa University of Sri Lanka</i><br>
-    💻 Specializing in <b>MERN & PERN Stack Engineering</b> and <b>React Native Mobile Development</b><br>
-    🧠 Building intelligent <b>AI-Powered Applications</b>, Multimodal LLM Agents & Scalable Cloud Systems<br>
-    🏛️ Dedicated to <b>Clean Architecture</b>, <b>SOLID Principles</b>, and <b>Enterprise System Design</b>
-  </p>
+<br/>
 
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00D9FF,100:7F5AF0&height=200&section=header&text=Mohamed%20Isthikan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Professional%20Full-Stack%20Software%20Engineer%20%26%20AI%20Systems%20Developer&descAlignY=58&descSize=18" width="100%" alt="Banner" />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-isthikan-b157503a9)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://isthi-portfolio12.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isthi-Kan)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isthikan.dev@gmail.com)
+# Hi there, I'm Mohamed Isthikan 👋
+
+### 🚀 Professional Full-Stack Software Engineer & AI Systems Developer
+
+<p align="center">
+  🎓 <b>BSc (Hons) in Computer Science Undergraduate</b> at <i>Uva Wellassa University of Sri Lanka</i><br>
+  💻 Specializing in <b>MERN & PERN Stack Engineering</b> and <b>React Native Mobile Development</b><br>
+  🧠 Building intelligent <b>AI-Powered Applications</b>, Multimodal LLM Agents & Scalable Cloud Systems<br>
+  🏛️ Dedicated to <b>Clean Architecture</b>, <b>SOLID Principles</b>, and <b>Enterprise System Design</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Isthi-Kan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Isthi-Kan?style=for-the-badge&logo=github&color=181717" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Isthi-Kan?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohamed-isthikan-b157503a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://isthi-portfolio12.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Isthi-Kan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:isthikan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
-## ⚡ About Me & Engineering Philosophy
+<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+
+# ⚡ About Me & Engineering Philosophy
 
 I am a Full-Stack Software Engineer who looks beyond just frameworks — focusing on **software craftsmanship, architecture, and high-leverage engineering decisions**. My work spans building enterprise-scale multi-tier platforms, cross-platform mobile apps with native ergonomics, and cutting-edge AI integrations.
 
-- 🏗️ **Architectural Mindset**: I design decoupled, modular applications using **Clean Architecture**, **Service Layer & Repository Patterns**, and strict **Separation of Concerns**.
-- 🔐 **Security & Performance**: Experienced in implementing zero-trust **JWT & Refresh Token rotation**, **Role-Based Access Control (RBAC)**, connection pooling, and database query indexing.
-- 🤖 **AI-Driven Engineering**: Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, and conversational productivity systems into real-world software.
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 🏗️ Architectural Mindset
 
-## 🛠️ Complete Technical Arsenal
+I design decoupled, modular applications using **Clean Architecture**, **Service Layer & Repository Patterns**, and strict **Separation of Concerns**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Security & Performance
+
+Experienced in implementing zero-trust **JWT & Refresh Token rotation**, **Role-Based Access Control (RBAC)**, connection pooling, and database query indexing.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI-Driven Engineering
+
+Integrating modern multimodal LLMs (OpenAI, Gemini), custom AI agent workflows, and conversational productivity systems into real-world software.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
+
+# 🛠️ Complete Technical Arsenal
 
 ### 🌐 Core Languages & Fundamentals
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -44,7 +81,7 @@ I am a Full-Stack Software Engineer who looks beyond just frameworks — focusin
 </p>
 
 ### 💻 Full-Stack Web Development (MERN & PERN)
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -56,7 +93,7 @@ I am a Full-Stack Software Engineer who looks beyond just frameworks — focusin
 </p>
 
 ### 📱 Mobile App Engineering
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo_(SDK_54_--_58)-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Router" />
@@ -66,7 +103,7 @@ I am a Full-Stack Software Engineer who looks beyond just frameworks — focusin
 </p>
 
 ### ⚙️ Backend & API Engineering
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
@@ -76,7 +113,7 @@ I am a Full-Stack Software Engineer who looks beyond just frameworks — focusin
 </p>
 
 ### 🗄️ Database Architecture & Caching
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Neon_Serverless-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon Postgres" />
   <img src="https://img.shields.io/badge/Prisma_ORM_7-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
@@ -86,7 +123,7 @@ I am a Full-Stack Software Engineer who looks beyond just frameworks — focusin
 </p>
 
 ### 🤖 AI Engineering, Media & Cloud Infrastructure
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Multimodal_AI-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Multimodal AI" />
@@ -97,27 +134,27 @@ I am a Full-Stack Software Engineer who looks beyond just frameworks — focusin
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
 
-## 🏛️ Software Engineering & Architecture Pillars
+# 🏛️ Software Engineering & Architecture Pillars
 
 My technical foundation is built on professional principles that ensure long-term code maintainability, testability, and resilience:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📐 Software Principles & Patterns
 - **Clean Code & SOLID**: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion (IoC).
 - **Architecture**: Modular Monolith, Layered Architecture, Feature-Sliced Design.
-- **Design Patterns**: 
+- **Design Patterns**:
   - *Creational*: Factory, Singleton, Builder
   - *Structural*: Adapter, Facade
   - *Behavioral*: Strategy, Observer
   - *Enterprise*: Service Layer Pattern, Repository Pattern, DTO Pattern.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗄️ Database & System Design
 - **Relational Integrity**: 3NF normalization, foreign key cascade constraints, multi-tenant vendor isolation.
@@ -128,64 +165,143 @@ My technical foundation is built on professional principles that ensure long-ter
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
 
-## 🚀 Featured Capstone Projects
+# 🚀 Featured Projects
 
 <table>
-
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🐱 AI CatBotz — Cross-Platform AI Assistant Ecosystem
-> *Next-generation full-stack AI platform enabling users to build custom AI agents, participate in multimodal conversations, and automate productivity.*
+### 🛒 Multi-Vendor E-Commerce
+Multi-tenant vendor platform with role-based access and secure authentication.
 
-- **Mobile Client**: Built with **React Native + Expo SDK**, Reanimated micro-interactions, Haptic feedback, and **Expo SecureStore**.
-- **Admin Dashboard**: Real-time analytics built with **React 19, Vite, and Tailwind CSS v4**.
-- **Server Infrastructure**: **Express.js 5 + Prisma ORM 7 + Neon Serverless PostgreSQL**, secure JWT RBAC, and cloud media handling.
-- **AI Engine**: Text & image multimodal chats, custom personality prompts, and agent supervision.
+<img src="https://img.shields.io/badge/PERN-316192?style=flat-square" alt="PERN" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+### 🤖 AI Advertisement Generator
+AI-powered ad creation using multimodal LLMs.
 
-### 🛍️ Enterprise Multi-Vendor E-Commerce Platform
-> *Production-grade distributed marketplace connecting Customers, Independent Vendors, and Super-Administrators.*
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
-- **Multi-Vendor Sub-Order Splitting**: Architecture that routes single checkouts into isolated vendor sub-orders with custom commission calculations.
-- **3-Level Category Taxonomy**: Custom tree hierarchy supporting main categories with decoupled first and second-level subcategories.
-- **Tech Stack**: **React Native (Expo)** mobile app, **React 19 + Vite** admin dashboard, **Express.js 5 + TypeScript**, **Prisma ORM**, and **Neon PostgreSQL**.
+</td>
+<td width="33%" valign="top">
+
+### 🎉 Eventra
+Event management platform.
+
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square" alt="MERN" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
 
+### 🐱 AI CatBotz
+Conversational AI assistant.
+
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🏠 Hostel Maintenance
+Maintenance request and tracking system.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+</td>
+<td width="33%" valign="top">
+
+### 💸 Splitify
+Expense splitting application.
+
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750215-2b0f0b61-2e3c-4f4d-bdf8-5366c0f5d8b5.gif" width="100%" alt="divider">
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed Isthikan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isthi-Kan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isthi-Kan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isthi-Kan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+
+<img src="https://streak-stats.demolab.com?user=Isthi-Kan&theme=tokyonight&hide_border=true"/>
+
 </div>
 
----
+<br>
 
 <div align="center">
 
-  ### 🤝 Let's Collaborate & Build Something Amazing!
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-isthikan-b157503a9)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://isthi-portfolio12.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-darkgreen?style=flat&logo=github)](https://github.com/Isthi-Kan)
+<img src="https://github-profile-trophy.vercel.app/?username=Isthi-Kan&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
 
-  <br />
+</div>
 
-  <i>“Technology combined with Software Engineering and Artificial Intelligence can shape the future.”</i>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isthi-Kan&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+# 🤝 Let's Collaborate & Build Something Amazing!
+
+| 🌐 Portfolio | 💼 LinkedIn | 📧 Email | 💻 GitHub |
+| :---: | :---: | :---: | :---: |
+| [Visit](https://isthi-portfolio12.vercel.app/) | [Connect](https://www.linkedin.com/in/mohamed-isthikan-b157503a9) | [Send Mail](mailto:isthikan.dev@gmail.com) | [Follow](https://github.com/Isthi-Kan) |
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-isthikan-b157503a9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://isthi-portfolio12.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-darkgreen?style=flat&logo=github)](https://github.com/Isthi-Kan)
+
+<br/>
+
+> *"Technology combined with Software Engineering and Artificial Intelligence can shape the future."*
+
+<br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ **Thanks for visiting my profile!**
+
+*Let's build scalable software that makes an impact.*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00D9FF,100:0A66C2&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
