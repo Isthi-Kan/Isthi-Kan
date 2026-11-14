@@ -169,89 +169,124 @@ My technical foundation is built on professional principles that ensure long-ter
 
 <img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
 
-# 🚀 Featured Projects
-
-### 🛒 Multi-Vendor E-Commerce Platform
-
-A scalable multi-tenant marketplace with vendor management, RBAC authentication, inventory management and an AI-ready architecture.
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `JWT`
-
-[🔗 Repository](https://github.com/Isthi-Kan/MyEcommerce_MultivendorApp)
+# 🚀 Featured Engineering Projects
 
 <br/>
 
+<!-- Flagship Spotlight Project -->
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="100%" valign="top">
+      <div align="left">
+        <p>
+          <img src="https://img.shields.io/badge/FEATURED_FLAGSHIP_PROJECT-00D9FF?style=for-the-badge&logo=star&logoColor=black" alt="Flagship" />
+          <img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN_MODULAR_MONOLITH-3B82F6?style=for-the-badge" alt="Architecture" />
+        </p>
+        <h3>🛒 Multi-Vendor E-Commerce Platform</h3>
+        <p>A production-ready, multi-tenant marketplace engineered with strict <b>Role-Based Access Control (RBAC)</b>, independent vendor dashboards, inventory controls, secure <b>JWT refresh token rotation</b>, and a normalized PostgreSQL persistence layer via Prisma.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+          <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        </p>
+        <p>
+          <a href="https://github.com/Isthi-Kan/MyEcommerce_MultivendorApp"><img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Repo" /></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 🤖 AI Advertisement Generator
+<br/>
 
-AI-powered ad creation using multimodal LLMs.
-
-`OpenAI` `Gemini` `React`
-
-[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎉 Eventra
-
-Event management platform.
-
-`MERN` `Tailwind CSS`
-
-[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐱 AI CatBotz
-
-Conversational AI assistant built with AI agent workflows.
-
-`AI Agents` `React Native`
-
-[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 Hostel Maintenance
-
-Maintenance request and tracking system.
-
-`Node.js` `PostgreSQL`
-
-[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 Splitify
-
-Expense splitting application.
-
-`Expo` `TypeScript`
-
-[🔗 Repository](https://github.com/Isthi-Kan?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ➕ More on GitHub
-
-Browse all my repositories and experiments.
-
-[🔗 View All Repositories](https://github.com/Isthi-Kan?tab=repositories)
-
-</td>
-</tr>
+<!-- Grid of Key Projects -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Advertisement Generator</h3>
+      <p>Autonomous multimodal AI system that creates data-driven visual ad campaigns and persuasive copywriting powered by LLM orchestration and real-time generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node" />
+      </p>
+      <p>
+        <a href="https://github.com/Isthi-Kan?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎉 Eventra Platform</h3>
+      <p>End-to-end event discovery, reservation, and ticketing platform featuring real-time schedule management, interactive filters, and email notification pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+      <p>
+        <a href="https://github.com/Isthi-Kan?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐱 AI CatBotz Assistant</h3>
+      <p>Interactive intelligent mobile assistant engineered with agentic workflows, prompt chaining, contextual memory, and low-latency response delivery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="AI Agents" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <a href="https://github.com/Isthi-Kan?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Hostel Maintenance Hub</h3>
+      <p>Facility issue tracking and maintenance ticketing suite featuring priority dispatch, automated workflow queues, and relational audit logging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
+      </p>
+      <p>
+        <a href="https://github.com/Isthi-Kan?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 Splitify Expense Manager</h3>
+      <p>Cross-platform mobile expense ledger with graph-based debt simplification algorithms, offline-first local state persistence, and native touch ergonomics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=redux&logoColor=white" alt="State" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <a href="https://github.com/Isthi-Kan?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 Labs & Open-Source Experiments</h3>
+      <p>Explore my complete portfolio of open-source libraries, microservices, algorithmic sandboxes, and enterprise architectural blueprints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square&logo=gitbook&logoColor=white" alt="Clean Arch" />
+        <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+        <img src="https://img.shields.io/badge/Full_Stack-7F5AF0?style=flat-square&logo=codepen&logoColor=white" alt="Full Stack" />
+      </p>
+      <p>
+        <a href="https://github.com/Isthi-Kan?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repos-00D9FF?style=flat-square&logo=github&logoColor=black" alt="Browse Repos" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/Isthi-Kan/Isthi-Kan/main/assets/divider.svg" width="100%" alt="divider" />
